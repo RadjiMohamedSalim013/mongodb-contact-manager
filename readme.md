@@ -80,4 +80,3 @@ mongo
 ```
 3. Créez la base de données et la collection avec les commandes fournies ci-dessus.
 4. Vous pouvez ensuite ajouter, interroger, mettre à jour ou supprimer des contacts selon les instructions.
-```
